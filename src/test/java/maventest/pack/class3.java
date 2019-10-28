@@ -12,7 +12,7 @@ public class class3 {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://opensource-demo.orangehrmlive.com/index.php/auth/login");
 		driver.manage().window().maximize();
-		Reporter.log("----------------------class2 executed---------------------------------------",true);
+		Reporter.log("----------------------class3 executed---------------------------------------",true);
 
 	}
 }
